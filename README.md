@@ -11,13 +11,13 @@
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,phpstorm,androidstudio" alt="IDE's" />
 
 <div align="left" style="margin-bottom:20px;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manethsw&show_icons=true&theme=dark&locale=en&layout=compact" alt="dexow" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manethsw&show_icons=true&theme=dark&locale=en&layout=compact" alt="ManethSW" /></p>
 </div>
 
 <div align="left" style="margin-bottom:20px;">
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manethsw&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="dexow" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manethsw&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="ManethSW" /></p>
 </div>
 
 <div align="left">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manethsw&theme=dark" alt="dexow" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manethsw&theme=dark" alt="ManethSW" /></p>
 </div>
